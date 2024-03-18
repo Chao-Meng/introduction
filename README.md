@@ -8,17 +8,27 @@ I am a clear communicator, eager to develop innovative solutions and learn new t
 
 ## Technical Skills
 
-- **Frontend Development**:
+### Frontend Development:
+
 - **Languages & Libraries**: React, JavaScript (ES6+), HTML5, CSS3, TypeScript
 - **Tools & Technologies**: Axios for AJAX requests, Responsive Web Design
-- **Backend Development**:
+
+### Backend Development:
+
 - **Runtime & Framework**: Node.js, Express.js
 - **APIs**: Design and Integration of RESTful APIs
-- **Database Management**:
+
+### Database Management:
+
 - **RDBMS**: MySQL
 - **NoSQL**: MongoDB
-- **Programming Languages**:
-  C++, Python -**Tools & Methodologies**:
+
+### Programming Languages:
+
+C++, Python
+
+### Tools & Methodologies:
+
 - **Version Control**: Git, GitHub
 - **Development Practices**: Agile methodologies, TDD (如果适用)
 - **Other**: RESTful API design and integration
