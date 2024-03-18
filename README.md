@@ -25,12 +25,14 @@ I am a clear communicator, eager to develop innovative solutions and learn new t
 
 ### Programming Languages:
 
-C++, Python
+- C++, Python
 
 ### Tools & Methodologies:
 
 - **Version Control**: Git, GitHub
-- **Development Practices**: Agile methodologies, TDD (如果适用)
+- **Development Practices**: Agile methodologies
+- **Collaboration & Project Management Tools**
+  - Trello for project management and team collaboration
 - **Other**: RESTful API design and integration
 
 ## Connect with Me
