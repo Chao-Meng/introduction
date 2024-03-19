@@ -6,6 +6,6 @@ with a strong foundation in object-oriented programming, which I believe will fa
 application of Java.
 
 As I embark on this new journey to learn Java, I am excited about the opportunity to expand my programming language
-repertoire and apply my existing knowledge in object-oriented programming to Java. I look forward to leveraging my
- background in C++ and C to quickly adapt to and excel in Java, embracing the challenges and opportunities that 
- come with learning a new programming language.
+repertoire and apply my existing knowledge in object-oriented programming to Java. I look forward to leveraging my 
+background in C++ and C to quickly adapt to and excel in Java, embracing the challenges and opportunities that  
+come with learning a new programming language.
