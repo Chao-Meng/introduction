@@ -1,0 +1,4 @@
+While I have not formally studied Java yet, my academic and project experience has been centered around C++ and C. 
+Throughout my education, I have completed multiple workshops and projects that not only solidified my understanding of programming fundamentals but also enhance my problem-solving skills. This is the GitHub link of my  part of the C++ projects: https://github.com/Chao-Meng/oop345-workshop-Seneca/tree/main. These experiences have provided me with a strong foundation in object-oriented programming, which I believe will facilitate my learning and application of Java.
+
+As I embark on this new journey to learn Java, I am excited about the opportunity to expand my programming language repertoire and apply my existing knowledge in object-oriented programming to Java. I look forward to leveraging my background in C++ and C to quickly adapt to and excel in Java, embracing the challenges and opportunities that come with learning a new programming language.
